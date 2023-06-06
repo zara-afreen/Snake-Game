@@ -23,14 +23,10 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 
 
 ## Screenshots
-
-![1](https://user-images.githubusercontent.com/32998741/33873439-27f635b2-df45-11e7-8fc1-f7812f17447a.png)
-*Written using PyCharm*
-
-![2](https://user-images.githubusercontent.com/32998741/33873437-2780ed2a-df45-11e7-9776-b1f151fa4e02.png)
+![snake game](https://github.com/zara-afreen/Snake-Game/assets/120567303/721c9bbd-4254-49ab-88a3-4a7abaea6c39)
 *Active game screen*
 
-![3](https://user-images.githubusercontent.com/32998741/33873440-28647360-df45-11e7-8291-b82d5646352f.png)
+![snakegame](https://github.com/zara-afreen/Snake-Game/assets/120567303/53922891-7d5c-4d0d-a0b7-de21ac108c3a)
 *Game over screen*
 
 
@@ -38,12 +34,6 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 * [Python](https://www.python.org)
 * [Pygame](https://www.pygame.org/wiki/GettingStarted), an open source Python library for making multimedia applications
 
-
-## Authors
-
-* **Rajat Dipta Biswas** - *Initial work*
-
-See also the list of [contributors](https://github.com/rajatdiptabiswas/snake-pygame/graphs/contributors) who participated in this project.
 
 ## Acknowledgements
 * [Pygame Documentations](https://www.pygame.org/docs/)
